@@ -8,7 +8,7 @@
 		"python",
 		"telethon"
 	],
-	"repository": "ضيف رابط الريبو بتاعك",
+	"repository": "https://github.com/Mustaphanop/ko",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
